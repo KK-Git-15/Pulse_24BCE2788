@@ -1,0 +1,113 @@
+🚀 Pulse — Social Media Dashboard
+
+A modern, responsive Social Media Analytics Dashboard built using HTML, CSS, and JavaScript. This project provides an interactive interface to monitor social media performance, visualize engagement metrics, and manage content efficiently.
+
+⸻
+
+📌 Project Overview
+
+Pulse Dashboard is designed for content creators and social media managers to:
+	•	Track followers and engagement
+	•	Analyze performance across platforms
+	•	Monitor post performance
+	•	Visualize data using charts
+	•	Simulate API integrations for real-world usage
+
+⚠️ Note: This project currently uses mock data to simulate real API responses.
+
+⸻
+
+✨ Features
+
+📊 Dashboard Overview
+	•	Displays key metrics:
+	•	Followers count
+	•	Engagement rate
+	•	Growth percentage
+	•	Average likes per post
+	•	Interactive follower growth chart
+	•	Platform traffic distribution (Donut chart)
+
+⸻
+
+📈 Analytics Section
+	•	Total posts, average likes, and comments
+	•	Monthly engagement trends (Line chart)
+	•	Engagement split (Likes vs Comments)
+	•	Platform performance comparison (Bar chart)
+
+⸻
+
+📝 Posts Management
+	•	Top performing posts table (sorted by likes)
+	•	Engagement percentage visualization
+	•	Performance categorization (High / Medium / Low)
+	•	Scheduled posts display with status:
+	•	Scheduled
+	•	Draft
+	•	Review
+
+⸻
+
+⚙️ Settings
+	•	Toggle Dark / Light Mode
+	•	Theme preference saved using localStorage
+	•	Profile and notification placeholders
+
+⸻
+
+🔌 API Integration (Simulated)
+	•	Connect to platforms like:
+	•	Instagram
+	•	Twitter
+	•	YouTube
+	•	Token-based connection UI
+	•	Simulated real-time data fetching
+	•	Status indicators (Connected / Disconnected)
+
+⸻
+
+🛠️ Technologies Used
+	•	HTML5 — Structure
+	•	CSS3 — Styling and responsive design
+	•	JavaScript (Vanilla) — Logic and interactivity
+	•	Chart.js — Data visualization
+	•	LocalStorage — Theme persistence
+
+⸻
+
+📂 Project Structure
+Pulse-Dashboard/
+│
+├── index.html      # Main UI structure
+├── style.css       # Styling and themes
+├── script.js       # Functionality and logic
+└── README.md       # Project documentation
+
+🚧 Future Improvements
+	•	Backend integration (Node.js / Firebase)
+	•	User authentication system
+	•	Real API integration (Instagram, YouTube, Twitter)
+	•	Database storage (MongoDB / Firestore)
+	•	Post creation and editing (CRUD)
+	•	Export analytics reports (PDF/CSV)
+	•	Notifications system
+
+⸻
+
+💡 Key Concepts Demonstrated
+	•	DOM manipulation
+	•	Event handling
+	•	Data visualization
+	•	Responsive UI design
+	•	Single Page Application (SPA) behavior
+	•	Theme management using CSS variables
+
+⸻
+
+👨‍💻 Author
+
+Name: Anbuchezhean Kirthikesh
+Reg No: 24BCE2788
+
+
